@@ -1,0 +1,25 @@
+{
+  "name": "rn-meteor-containerize",
+  "version": "1.0.0",
+  "description": "A React Container component designed specially for react-native-meteor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astrocoders/rn-meteor-containerize.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react",
+    "containers"
+  ],
+  "author": "Astrocoders <astrocoders.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Astrocoders/rn-meteor-containerize/issues"
+  },
+  "homepage": "https://github.com/Astrocoders/rn-meteor-containerize#readme"
+}
