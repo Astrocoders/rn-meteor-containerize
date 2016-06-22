@@ -11,9 +11,9 @@
     "url": "git+https://github.com/Astrocoders/rn-meteor-containerize.git"
   },
   "keywords": [
-    "react",
-    "native",
-    "react",
+    "react-native",
+    "react-native-component",
+    "react-native-performance",
     "containers"
   ],
   "author": "Astrocoders <astrocoders.com>",
