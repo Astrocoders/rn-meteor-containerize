@@ -29,7 +29,7 @@ export default function(reactiveFn, Loader){
             // 1. Apply any initial data to be rendered;
             // 2. Make MeteorDataManager do its cycle calling getMeteorData
             //    in a computation.
-            this.forceUpdate();
+            Trackr.afterFlush(() => this.forceUpdate(), 100);
 
             this.firstRun = false;
           });
