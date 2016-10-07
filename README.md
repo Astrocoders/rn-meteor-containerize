@@ -1,3 +1,6 @@
+# NOT NEEDED ANYMORE
+## This package has been merged into react-native-meteor. https://github.com/inProgress-team/react-native-meteor/pull/135
+
 # rn-meteor-containerize
 A React Container component designed specially for react-native-meteor
 
