@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Astrocoders/rn-meteor-containerize#readme",
   "dependencies": {
-    "lodash": "^4.16.0",
+    "lodash": "^4.16.4",
     "react-native-meteor": "^1.0.0-rc14"
   }
 }
